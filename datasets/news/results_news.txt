@@ -1,2 +1,2 @@
-FINBERT RESULTS
+FINBERT RESULTS are in news_senti_cleaned.csv
 VADER RESULTS
