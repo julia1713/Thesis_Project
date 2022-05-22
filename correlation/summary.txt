@@ -1,1 +1,9 @@
-WORK IN PROGRESS
+Correlation between datasets (news,tweets) and S&P500 daily returns.
+Results:  
+-news: VADER is negative (-0.05), FinBERT is positive (0.06)
+-tweets: VADER is positive (0.15), FinBERT is positive (0.55)
+
+**Correlation** summarizes the strength and direction of the linear (straight-line) association between two quantitative variables.
+It takes values between -1 and +1.
+
+A positive value for corr indicates a positive association, and a negative value for corr indicates a negative association.
