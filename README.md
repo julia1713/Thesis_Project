@@ -7,7 +7,7 @@ Steps of the project:
 4. Sentiment analysis using FinBERT and VADER (NLP models) ✅
 5. Creation of sentiment indexes (4 in total) ✅
 6. Correlation among indexes
-7. Correlation with S&P 500
+7. Correlation with S&P 500 ✅
 8. Results & Discussion
 9. Threats to validity
 10. Conclusion
